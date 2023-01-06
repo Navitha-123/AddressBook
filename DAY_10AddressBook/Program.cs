@@ -13,7 +13,7 @@
             //UC3EditContact edit = new UC3EditContact();
             //edit.AddPerson();
 
-            UC4DeleteContact delete = new UC4DeleteContact();
+             UC4DeleteContact delete = new UC4DeleteContact();
             delete.DeletePerson();
         }
     }
